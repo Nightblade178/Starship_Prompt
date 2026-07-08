@@ -102,10 +102,10 @@ format = "[ $user]($style) @"
 
 [hostname]
 ssh_only = false
-ssh_symbol = "🌐 "
+ssh_symbol = "󱘖  "
 trim_at = "."
 detect_env_vars = []
-format = " [$ssh_symbol$hostname]($style) "
+format = " [$ssh_symbol](bright-cyan)[$hostname]($style) "
 style = "green bold"
 disabled = false
 aliases = {}
