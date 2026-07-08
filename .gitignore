@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Don't ignore directories (so Git can recurse into them if needed)
+!*/
+
+# Track these files
+!.gitignore
+!README.md
+!starship.toml
