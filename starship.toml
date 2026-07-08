@@ -113,6 +113,8 @@ aliases = {}
 [directory]
 format = "[in ](bold white)[$path]($style) "
 style = "fg:123"
+truncation_length = 8
+truncation_symbol = '.../'
 
 [time]
 disabled = false
