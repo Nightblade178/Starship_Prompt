@@ -148,3 +148,6 @@ symbol = ' '
 
 [rust]
 symbol = ' '
+
+[golang]
+symbol = ' '
