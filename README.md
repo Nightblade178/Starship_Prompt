@@ -2,7 +2,4 @@
 This is my personal Starship Prompt that i Use. I tried to keep it as close to vanilla while adding stuff that i want such as a clock and OS icon.
 
 
-<img width="825" height="158" alt="image" src="https://github.com/user-attachments/assets/e94fbf54-7c69-4ee9-b312-014fe1de8dde" />
-
-
-<img width="1699" height="121" alt="image" src="https://github.com/user-attachments/assets/f45f63cd-e4a2-4542-a74a-f298c20b1e41" />
+<img width="1909" height="955" alt="image" src="https://github.com/user-attachments/assets/d3bee832-cb9f-4cd4-928d-ff7c7099a4ba" />
