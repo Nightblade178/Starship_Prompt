@@ -1,4 +1,4 @@
-# NBladeship
+# NBlade_Starship
 This is my personal Starship Prompt that i Use. I tried to keep it as close to vanilla while adding stuff that i want such as a clock and OS icon.
 
 
