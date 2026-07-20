@@ -142,6 +142,7 @@ style = "fg:183"
 Kali = "  "
 Raspbian = " "
 AlmaLinux = "  "
+Arch="󰣇 "
 
 [python]
 symbol = ' '
